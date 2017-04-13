@@ -5,5 +5,5 @@
 * @author Raztoux
 */
 public function getTodaysDate() {
-
+  print_r(getdate());
 }
